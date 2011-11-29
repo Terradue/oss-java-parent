@@ -35,6 +35,12 @@
     <developerConnection>scm:svn:https://engine.terradue.com/svn/terradue/infra/java-parent/trunk</developerConnection>
     <url>https://engine.terradue.com/svn/terradue/infra/java-parent/trunk</url>
   </scm>
+  <distributionManagement>
+    <site>
+      <id>github</id>
+      <url>gitsite:git@github.com/Terradue/oss-java-parent.git</url>
+    </site>
+  </distributionManagement>
 
   <properties>
     <javac.src.version>1.5</javac.src.version>
