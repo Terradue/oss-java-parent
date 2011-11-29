@@ -31,9 +31,9 @@
   <description>The OSS Terradue Java parent POM</description>
 
   <scm>
-    <connection>scm:svn:https://engine.terradue.com/svn/terradue/infra/java-parent/trunk</connection>
-    <developerConnection>scm:svn:https://engine.terradue.com/svn/terradue/infra/java-parent/trunk</developerConnection>
-    <url>https://engine.terradue.com/svn/terradue/infra/java-parent/trunk</url>
+    <connection>scm:git:ssh://github.com/Terradue/oss-java-parent.git</connection>
+    <developerConnection>scm:git:git+ssh://git@github.com/Terradue/oss-java-parent.git</developerConnection>
+    <url>https://github.com/Terradue/oss-java-parent</url>
   </scm>
   <distributionManagement>
     <site>
