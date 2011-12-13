@@ -35,12 +35,6 @@
     <developerConnection>scm:git:git+ssh://git@github.com/Terradue/oss-java-parent.git</developerConnection>
     <url>https://github.com/Terradue/oss-java-parent</url>
   </scm>
-  <distributionManagement>
-    <site>
-      <id>github</id>
-      <url>gitsite:git@github.com/Terradue/oss-java-parent.git</url>
-    </site>
-  </distributionManagement>
 
   <properties>
     <javac.src.version>1.5</javac.src.version>
