@@ -24,7 +24,7 @@
   </parent>
 
   <artifactId>oss-java-parent</artifactId>	
-  <version>4-SNAPSHOT</version>
+  <version>4</version>
   <packaging>pom</packaging>
 
   <name>Terradue OSS Java parent POM</name>
